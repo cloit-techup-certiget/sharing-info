@@ -102,7 +102,3 @@ https://github.com/K-hyuk06/sample_for_study_kafka_python
 
 - [CIO Korea 소개 기사](https://www.ciokorea.com/news/227469)
 
----
-
-> 작성일: 2023-04-03  
-> 발표자: 레몬
